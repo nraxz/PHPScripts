@@ -1,7 +1,6 @@
 List of the PHP files and Function in it.
 <ul>
 <li><b>GetClientIP</b>
-
     <ul>
         <li>
             Function to return Client Ip
@@ -37,6 +36,15 @@ List of the PHP files and Function in it.
         </li>
         <li>
            Php Script to return last modified information of the file
+        </li>
+        <li>
+            Arithmetic operation on character variables: $d = 'A0b' <br>
+            <p> Sample output<br>
+                   A0c<br>
+                   A0d<br>
+                   A0e<br>
+                   A0f<br>
+                   A0g</p>
         </li>
      </ul>
 </li>
